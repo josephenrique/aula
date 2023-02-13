@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-color: #1c1629;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Bebas Neue';
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1vw;
+    text-align: left;
+    margin-left: 1vw;
+    color: white;
+}

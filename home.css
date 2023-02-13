@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #1c1629;
+    font-family: 'Bebas Neue';
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3vw;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 1.5vw;
+    padding: 0px;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 1.5vw;
+    color: white;
+}
+
+h4 {
+    font-size: 1vw;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: left;
+    padding-top: 3vh;
+    margin-left: 1vw;
+}
+
+
+button {
+    font-family: 'Bebas Neue';
+    font-size: 1vw;
+    font-weight: 800;
+    width: 100%;
+    margin: 10px;
+    padding: 10px 0px;
+    background: #00ff88;
+    border-radius: 15px;
+    outline: none;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-logo {
+    width: 70vw;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+
+}
+
+.header-buttons {
+    width: 30vw;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.top-text {
+    margin: none;
+    padding: none;
+    width: 100vw;
+    color: #77ffc0;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 1px;
+
+}
+
+.top-text > h1 {
+    padding-top: 3vh;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-ad {
+    justify-content: right;
+    text-align:right;
+    width: 19vw;
+    height: 25vw;
+}
+
+.masculino {
+
+    width: 19vw;
+    height: 25vw;
+
+}
+
+.feminino {
+    width: 19vw;
+    height: 25vw;
+
+}
+
+.infantil {
+
+    width: 19vw;
+    height: 25vw;
+
+}
+
+.left-menu {
+
+    width: 19vw;
+    height: 25vw;
+
+}
